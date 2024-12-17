@@ -1,0 +1,22 @@
+.counter {
+    display: inline;
+    display: block;
+}
+
+.toggle {
+    font-size: 20px;
+}
+
+.toggle input[type="checkbox"] {
+    transform: scale(1.3);
+}
+
+.center {
+    text-align: center;
+}
+
+textarea {
+    height: 400px;
+    width: 600px;
+    resize: none;
+}
