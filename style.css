@@ -1,0 +1,45 @@
+button {
+    font-size: 40px;
+    font-family: cursive;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+}
+
+body {
+    background-image: url("bg.jpg");    
+}
+
+.button-container {
+    text-align: center;
+}
+
+.noBetButton {
+    background-color: #e3ffe7;
+}
+
+.bet10Button {
+    background-color: #a3ffb0;
+}
+
+.bet20Button {
+    background-color: #19ff39;
+}
+
+.POT {
+    position: fixed;   /* stays in place when scrolling */
+    top: -5px;         /* distance from the top */
+    left: 10px;        /* distance from the left */
+    font-size: 85px;
+    font-family: cursive;
+    color: #f342fc;
+}
+
+.BETBUTTON {
+    position: fixed;   /* stays in place when scrolling */
+    top: 25px;         /* distance from the top */
+    left: 400px;        /* distance from the left */
+    font-size: 40px;
+    font-family: cursive;
+    color: #424efc;
+}
